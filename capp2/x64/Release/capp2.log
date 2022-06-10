@@ -1,0 +1,8 @@
+﻿  capp2.cpp
+C:\Users\user\source\repos\capp2\capp2\capp2.cpp(36,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  2 of 14 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  capp2.vcxproj -> C:\Users\user\source\repos\capp2\x64\Release\capp2.exe

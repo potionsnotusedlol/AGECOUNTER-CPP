@@ -1,0 +1,3 @@
+﻿  capp2.cpp
+C:\Users\user\source\repos\capp2\capp2\capp2.cpp(40,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  capp2.vcxproj -> C:\Users\user\source\repos\capp2\x64\Debug\capp2.exe
